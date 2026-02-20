@@ -1,0 +1,25 @@
+# Compiled files
+*.class
+
+# Build folders
+bin/
+out/
+target/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Package files
+*.jar
+*.war
+*.ear
