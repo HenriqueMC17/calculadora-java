@@ -1,43 +1,29 @@
 # Calculadora Java
 
-Calculadora interativa desenvolvida em Java com operações matemáticas básicas.
+## Descrição
+Implementação básica de uma calculadora em Java.
 
-## 🚀 Tecnologias
+## Funcionalidades
+- [Lista de funcionalidades será adicionada aqui]
 
+## Estrutura do Projeto
+- `src/` - Código fonte da calculadora
+- `docs/` - Documentação adicional
+- `assets/` - Recursos gráficos (se houver)
+
+## Requisitos
+- Java JDK instalado
+- IDE compatível com Java
+
+## Como Executar
+[Instruções de execução serão adicionadas aqui]
+
+## Tecnologias Utilizadas
 - Java
-- Programação Orientada a Objetos
+[Lista de outras tecnologias será adicionada aqui]
 
-## 📚 Conceitos Aplicados
+## Autor
+[Seu nome será adicionado aqui]
 
-- Encapsulamento
-- Estruturas condicionais e de repetição
-- Tratamento de entrada do usuário
-- Modularização de código
-
-## 📁 Estrutura do Projeto
-
-```
-calculadora/
-├── src/
-│   └── Main/
-│       ├── Main.java
-│       └── Calculadora.java
-├── .gitignore
-└── README.md
-```
-
-## ▶️ Como Executar
-
-1. Compile:
-   ```bash
-   javac src/Main/*.java
-   ```
-
-2. Execute:
-   ```bash
-   java -cp src Main.Main
-   ```
-
-## 👨‍💻 Autor
-
-Henrique Monteiro Cardoso
+## Data de Criação
+[Data será adicionada aqui] 
